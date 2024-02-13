@@ -12,6 +12,8 @@ A brief description of the purpose and use of this project.
 
 To install and run this project, follow the steps below:
 
+[Download APK](https://raw.githubusercontent.com/vakiliali79/GitHub-Search-Android/master/GitHub-Search.apk)
+
 1. Clone the project:
     ```bash
     git clone https://github.com/vakiliali79/GitHub-Search-Android.git
