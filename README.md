@@ -1,7 +1,5 @@
 # GitHub Search
 
-A brief description of the purpose and use of this project.
-
 ## Features
 
 - Ability to search by name or language
